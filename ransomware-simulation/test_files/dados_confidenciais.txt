@@ -1,0 +1,4 @@
+id,nome,salario,cargo
+1,Joaquim Silva,5500.00,Analista Junior
+2,John Smith,8200.00,Coordenador
+3,Carlos Oliveira,12500.00,Gerente de TI
