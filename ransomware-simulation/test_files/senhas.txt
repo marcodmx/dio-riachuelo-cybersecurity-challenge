@@ -1,0 +1,5 @@
+--- LISTA DE ACESSOS 2026 ---
+Netflix: user123 / senha123
+Gmail: john.smith.dev@gmail.com / admin@2026
+Banco_Riachuelo: john_smith_user / token_secreto_99
+Instagram: @john_smith_tech / batata_frita_123
